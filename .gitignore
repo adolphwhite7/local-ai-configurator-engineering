@@ -1,0 +1,9 @@
+node_modules/
+dist/
+verification/
+.vite/
+.vite-cache/
+.headless-profile/
+.env*
+*.log
+.DS_Store
